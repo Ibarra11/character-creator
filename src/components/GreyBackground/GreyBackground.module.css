@@ -1,0 +1,8 @@
+.greyBackground{
+  background-color: hsl(195deg, 20%, 86%);
+  height: 100%;
+  width: 100%;
+  position: fixed;
+  top: 60%;
+  left: 0px;
+}
